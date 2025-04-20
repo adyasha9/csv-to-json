@@ -16,7 +16,7 @@ Installation
 
 Clone this repository
 Install dependencies:
-bashnpm install
+npm install
 
 Configure the application by creating a .env file based on the provided sample
 
