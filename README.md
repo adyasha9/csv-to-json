@@ -72,6 +72,7 @@ Rohit, Prasad, 35, A-563 Rakshak Society, New Pune Road, Pune, Maharashtra, male
 
 Assumptions
 
+
 The CSV file has a header row with property names
 All property names use dot notation for nesting
 All sub-properties of a complex property are placed next to each other in the file
@@ -84,3 +85,9 @@ Performance Considerations
 The application uses streaming for parsing large CSV files to minimize memory usage
 Batch processing is implemented for database operations to improve performance
 Error handling is in place to gracefully handle issues with file parsing or database operations
+
+Screenshots of API testing using Postman are attached.
+
+![Screenshot (77)](https://github.com/user-attachments/assets/c64434b5-6aed-4df8-9531-edf5b2fe80e8)
+![Screenshot (78)](https://github.com/user-attachments/assets/50bcaf45-a60d-490f-b03e-f4174b744e5e)
+![Screenshot (79)](https://github.com/user-attachments/assets/ded963e8-46ea-4f19-bcb6-cf3f1ad66d57)
